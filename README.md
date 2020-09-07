@@ -1,7 +1,7 @@
 # Clever Programmer ReactJS Portfolio Template      
 
 ## 👇 WATCH THIS FIRST 👇
-## https://www.loom.com/share/b01d377652cf48e2bb390d9387db651a
+## https://tinyurl.com/customizeReactPortfolio
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
