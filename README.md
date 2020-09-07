@@ -1,4 +1,7 @@
 # Clever Programmer ReactJS Portfolio Template      
+
+Video to customize portfolio: https://www.loom.com/share/b01d377652cf48e2bb390d9387db651a
+
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
 <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
