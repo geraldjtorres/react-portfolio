@@ -1,40 +1,38 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "firstName": "Jeff",
+    "name": "Jeff Torres",
+    "occupation": "Front end Developer",
+    "description": "Developer by day, Dancer by night",
+    "image": "jeff-cropped.jpg",
+    "bio": "My name is Gerald but I go by my middle name Jeff, I'm a Front end developer and React.js enthusiast. I was born and raised in London but I now work in Dubai",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "geraldjtorres@gmail.com",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "city": "Dubai",
+      "state": "UAE"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://teamtreehouse.com/geraldtorres",
+    "resumedownload": "https://drive.google.com/file/d/1m10ZxypPLiEzUgH8DmYVWTAi00G90gZR/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/gerald.j.torres.7/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/gerald-jeff-torres-92a24a94/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/jeff.torres_/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/geraldjtorres",
         "className": "fa fa-github"
       }
     ]
