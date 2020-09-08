@@ -5,12 +5,12 @@
     "occupation": "Front end Developer",
     "description": "Developer by day, Dancer by night",
     "image": "jeff-cropped.jpg",
-    "bio": "My name is Gerald but I go by my middle name Jeff, I'm a Front end developer and React.js enthusiast. I was born and raised in London but I now work in Dubai",
+    "bio": "My name is Gerald but I go by my middle name Jeff, I'm a Front end developer and React.js enthusiast. I was born and raised in London but now I work in Dubai",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "geraldjtorres@gmail.com",
     "address": {
-      "city": "Dubai",
-      "state": "UAE"
+      "city": "London",
+      "state": "UK"
     },
     "website": "https://teamtreehouse.com/geraldtorres",
     "resumedownload": "https://drive.google.com/file/d/1m10ZxypPLiEzUgH8DmYVWTAi00G90gZR/view?usp=sharing",
@@ -38,27 +38,34 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I am well versed in using React.JS as my main Front end tech stack along with Redux and Firebase",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "University of Wesminster",
+        "degree": "Bachelors of Science in Multimedia Computing",
+        "graduated": "June 2015",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Synechron",
+        "title": "Front end Developer",
+        "years": "March 2018 - Present",
+        "description": "Develop cutting edge FinTech applications for leading banks such as HSBC"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Red Apple Creative",
+        "title": "Front end Developer",
+        "years": "Nov 2016 - March 2018",
+        "description": "Rapdily build React driven campaign applications for exciting companies such as Spotify, Disney and Bose"
+      },
+
+      {
+        "company": "Foxtons",
+        "title": "Junior Developer",
+        "years": "Dev 2014 - Nov 2016",
+        "description": "Updating and maintaining London's leading Real Estate Agency website and internal Intranet"
       }
     ],
     "skills": [
@@ -71,11 +78,11 @@
         "level": "95%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Redux",
+        "level": "75%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "Figma, Adobe XD, Sketch",
         "level": "55%"
       },
       {
@@ -83,8 +90,8 @@
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Firebase",
+        "level": "60%"
       }
     ]
   },
@@ -125,12 +132,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I've known young Jeff for 2 years and all I can say he is a shit coder fam and still uses tables and spacer gifs for layouts",
+        "user": "Taj Rahman"
       }
     ]
   }

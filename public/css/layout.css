@@ -35,7 +35,7 @@ header {
   height: 100vh;
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/london-bg.jpg) no-repeat top center;
+  background: #161415 url(../images/london-v2.jpg) no-repeat bottom center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
@@ -43,7 +43,7 @@ header {
   position: relative;
 }
 
-header:after {
+/* header:after {
   content: '';
   position: absolute;
   height: 100%;
@@ -53,7 +53,7 @@ header:after {
   display: block;
   left: 0;
   top: 0;
-}
+} */
 
 /* vertically center banner section */
 header:before {
@@ -133,7 +133,7 @@ header .scrolldown {
 
 header .scrolldown a {
   position: absolute;
-  bottom: 30px;
+  bottom: 180px;
   left: 50%;
   margin-left: -29px;
   color: #fff;
@@ -144,8 +144,8 @@ header .scrolldown a {
   line-height: 42px;
   color: #fff;
   border-radius: 100%;
-
-  color: white;
+  color: #d1002b;
+  /* color: white; */
 
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -153,7 +153,8 @@ header .scrolldown a {
   transition: all 0.3s ease-in-out;
 }
 header .scrolldown a:hover {
-  color: #d1002b;
+  /* color: #d1002b; */
+  color: white;
 }
 
 /* primary navigation
@@ -232,7 +233,8 @@ ul#nav li.current a {
  /* ------------------------------------------------------------------ */
 
 #about {
-  background: #2b2b2b;
+  /* background: #2b2b2b; */
+  background: white;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -248,8 +250,11 @@ ul#nav li.current a {
 }
 
 #about h2 {
-  font: 22px/30px 'opensans-bold', sans-serif;
-  color: #fff;
+  font: 22px/30px 'Nunito Sans', sans-serif;
+  color: #2b2b2b;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 2px;
   margin-bottom: 12px;
 }
 #about p {
@@ -306,7 +311,8 @@ ul#nav li.current a {
 }
 
 #resume h1 {
-  font: 18px/24px 'opensans-bold', sans-serif;
+  font: 18px/24px 'Nunito Sans', sans-serif;
+  font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -315,7 +321,10 @@ ul#nav li.current a {
   padding-bottom: 6px;
 }
 #resume h3 {
-  font: 25px/30px 'opensans-bold', sans-serif;
+  font: 25px/30px 'Nunito Sans', sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 #resume .header-col {
