@@ -21,7 +21,7 @@ class Footer extends Component {
             <ul className='social-links'>{networks}</ul>
 
             <ul>
-              <li>Modified with love by the Clever Programmer team </li>
+              <li>Powered by React.Js</li>
             </ul>
 
             <ul className='copyright'>
