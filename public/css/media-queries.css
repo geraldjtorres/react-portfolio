@@ -221,8 +221,8 @@
   }
 
   /* scrolldown link */
-  header .scrolldown {
-    display: none;
+  header .scrolldown a {
+    bottom: 100px;
   }
 
   /* About Section
